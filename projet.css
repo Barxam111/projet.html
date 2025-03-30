@@ -1,9 +1,15 @@
-.parent{
-    display: flex;
-    gap: 25px;
+h1{
+    padding: 5%;
+    margin: 10%;
+}
+h1{
+    color: aquamarine;
+}
+h1{
+    display:flex;
 
 }
-
-.boxe{
+h1{
+    justify-content: center;
     
 }
